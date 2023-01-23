@@ -19,16 +19,16 @@ The code will write out all Wikipedia categories for which at least 200 document
 
 Open your *wiki_categories.txt* file and scroll through it. Select 10 categories from it. Make sure you don't select categories which look like Wikipedia-internal labels (e.g. `Wikipedia books', `Pages with script errors', etc). Copy and paste those category names into a file named *tmp_cat.txt* in the top directory of the repo. For instance, you might end up with the following:
 
-    Brazilian telenovelas
-    Cold War films
-    Fauna of Zimbabwe
-    Freeware games
-    International law
-    Landscape painters
-    Members of the Chinese Academy of Sciences
-    Musicals based on novels
-    Particle physics
-    21st-century women mathematicians
+    Fast-food franchises
+    Fauna by country
+    Fauna of Brazil
+    Fauna of California
+    Fauna of the Amazon
+    Fauna of the California chaparral and woodlands
+    Fauna of the Southeastern United States
+    Featherstone Rovers players
+    Featherweight boxers
+    Featherweight mixed martial artists 
 
 
 ### Wikipedia page crawl
