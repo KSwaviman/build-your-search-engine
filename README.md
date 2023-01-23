@@ -98,7 +98,3 @@ and you will return a ranked list of categories for each query. You of course wa
 
 Play with the *classify.py* script, and with adding queries to the file. What works, what doesn't? Why?
 
- 
-## Open-ended project
-
-Can you finish your mini search engine and make it return actual documents in response to a query?
