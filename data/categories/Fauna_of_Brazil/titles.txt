@@ -1,0 +1,100 @@
+5361937 Acanthicus
+47765835 Acragas miniaceus
+37157658 Acrolophus granulatella
+37157707 Acrolophus horridalis
+41578106 Adelpha cocala
+37633690 Adelpha cytherea
+41578030 Adelpha iphiclus
+34190818 Adelpha lycorias
+31832776 Adelpha melona
+41578103 Adelpha nea
+34191337 Adelpha plesaure
+41578109 Adelpha radiata
+41578107 Adelpha serpa
+37817452 Aethria paula
+44134541 Agelaia multipicta
+26225873 Agrias amydon
+26226041 Agrias claudina
+26226128 Agrias hewitsonius
+37868897 Agyrtidia olivensis
+37868906 Agyrtidia uranophila
+59870897 Amiga arnaca
+12310849 Ammoglanis
+48875050 Ananteris balzanii
+48875089 Ananteris nairae
+70317017 Ancistrus formoso
+70318501 Ancistrus fulvus
+70232122 Ancistrus jataiensis
+63639442 Antirrhea philaretes
+41578116 Antirrhea philoctetes
+33387870 Appias drusilla
+12547236 Arawacus aethesa
+26219866 Archaeoprepona amphimachus
+5699429 Archaeoprepona demophon
+26219941 Archaeoprepona meander
+26219773 Archonias
+25176116 Arturia alcatraziensis
+25176120 Ascandra ascandroides
+26233128 Ascia
+5506843 Aspidoras lakoi
+12667061 Aspredinichthys
+26233520 Asterope batesii
+31832889 Asterope leprieuri
+26233679 Asterope markii
+41389636 Asterope optima
+32425630 Athis therapon
+12698756 Attheyella yemanjae
+70614184 Baryancistrus hadrostomus
+31834079 Batesia hypochlora
+71728666 Betrequia
+31834234 Bia actorion
+70548808 Boana steinbachi
+25176121 Borojevia aspina
+25176127 Borojevia brasiliensis
+37488835 Brassolis sophorae
+11541885 Brochiloricaria
+20389795 Caligo beltrao
+24984975 Caligo brasiliensis
+15587153 Caligo eurilochus
+20389755 Caligo idomeneus
+24985056 Caligo martia
+41578171 Caligo teucer
+32957424 Callithomia lenea
+12699630 Canthocamptus campaneri
+28233332 Catonephele numilia
+34204873 Catonephele sabrina
+36655269 Ceratinia cayana
+36655194 Ceratinia neso
+36655129 Ceratinia tutia
+36605433 Chloreuptychia herseis
+25176117 Clathrina angraensis
+25176124 Clathrina aurea
+25176145 Clathrina conifera
+25176155 Clathrina cylindractina
+36647312 Coenophlebia
+69824636 Colomesus tocantinensis
+33802348 Consul fabius
+12281022 Copionodon
+70086392 Copionodon lianae
+70086342 Copionodon orthiocarinatus
+70086313 Copionodon pecten
+12244344 Corumbataia
+51302601 Craspedonema elegans
+72512128 Cryptancistrus
+48893586 Cryptocellus adisi
+51716945 Cuterebra rufiventris
+12547284 Cyanophrys bertha
+38263418 Dasyophthalma creusa
+38263468 Dasyophthalma geraensis
+38263380 Dasyophthalma rusina
+38263450 Dasyophthalma vertebralis
+28904892 Diaethria candrena
+28904778 Diaethria clymena
+28904673 Diaethria eluina
+12653213 Diplodon dunkerianus
+12653228 Diplodon fontaineanus
+12653232 Diplodon pfeifferi
+33483572 Dismorphia astyocha
+33461843 Dismorphia crisia
+33460141 Dismorphia laja
+33483437 Dismorphia melia

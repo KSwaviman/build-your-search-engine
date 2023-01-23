@@ -1,0 +1,100 @@
+39042490 Fauna of California
+13509351 Castor californicus
+43275859 Acanthocephalus anguillae
+43277905 Acanthocephalus echigoensis
+12531131 Allen's chipmunk
+54336810 Amargosa River pupfish
+70576656 Anniella alexanderae
+58977222 Anniella campi
+70576810 Anniella grinnelli
+18771558 Aptostichus
+18882070 Aquatic garter snake
+3443293 Arboreal salamander
+4015816 Arroyo bluet
+33018898 Arta epicoenalis
+23276628 Autographa californica
+12602941 Banded guitarfish
+24080449 Barred sand bass
+3748507 Bat ray
+12538549 Pocketed free-tailed bat
+6489215 Black storm petrel
+34885239 Blind goby
+27334463 Bombus occidentalis
+38399885 Bombus sitkensis
+12699192 Branchinecta sandiegonensis
+12699261 Brennania belkini
+27626011 California carpenter bee
+743332 California gull
+4346658 California halibut
+12520891 California kangaroo rat
+4778023 California killifish
+241697 California kingsnake
+12537807 California leaf-nosed bat
+24081845 California lizardfish
+8246698 California moray
+17881291 California mountain kingsnake
+12175175 California deermouse
+9135700 California mussel
+37678563 California myotis
+532057 California sea hare
+60255 California sea lion
+4609733 California sheephead
+7924505 California slender salamander
+1239857 California spiny lobster
+43827520 California toad
+1561686 California two-spot octopus
+11369762 California vole
+36940085 Californian anchovy
+17247159 Californian turkey
+11092300 Californosaurus
+29718877 Cameraria jacintoensis
+29718324 Cameraria lobatiella
+29718998 Cameraria marinensis
+29718529 Cameraria mendocinensis
+29718653 Cameraria pentekes
+29718607 Cameraria sadlerianella
+29719094 Cameraria sempervirensella
+29718950 Cameraria serpentinensis
+29718832 Cameraria shenaniganensis
+29718764 Cameraria temblorensis
+29719143 Cameraria tildeni
+29715981 Cameraria umbellulariae
+29719041 Cameraria walsinghami
+29718718 Cameraria wislizeniella
+43606811 Camponotus hyatti
+69583518 Camponotus laevigatus
+22521484 Canis latrans mearnsi
+4993336 Chasmistes brevirostris
+38756324 Chione californiensis
+12700056 Chloealtis aspasma
+5161927 Roundtail chub
+24548884 Citharichthys fragilis
+31426552 Clinocardium
+22434793 Coastal giant salamander
+363924 Cooper's hawk
+36321256 Coptotriche consanguinea
+13967057 Corynactis californica
+29716772 Cremastobombycia grindeliella
+4612917 Crotalus helleri
+8161395 Crotalus oreganus
+4833839 Crotalus ruber
+3242098 Crotalus stephensi
+70389839 Culex stigmatosoma
+70389851 Culex thriambus
+45284377 Cuthonella cocoachroma
+1261329 Cutthroat trout
+12184347 Deltistes luxatus
+24421823 Dicamptodon tenebrosus
+41387674 Dorymyrmex bicolor
+9424682 East Pacific red octopus
+49221024 Exosphaeroma amplicauda
+49218779 Exosphaeroma pentcheffi
+42485036 Paleobiota of the La Brea Tar Pits
+36997004 Franklin's bumblebee
+373906 Garibaldi (fish)
+69574548 Geophilus becki
+5675394 Giant Pacific octopus
+26322620 Gnophaela vermiculata
+4023043 Gopher rockfish
+896399 Gray fox
+69497228 Grylloblatta chandleri
